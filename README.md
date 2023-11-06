@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K1tsu-ne
+- 👋 Hi, I’m @Nanao
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing at the moment 
