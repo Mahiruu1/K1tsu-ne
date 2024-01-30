@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nanao
+- 👋 Hi, I’m @Gareth
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing at the moment 
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to learn as much as possible
 - 📫 How to reach me hoogareth@gmail.com
 
 <!---
